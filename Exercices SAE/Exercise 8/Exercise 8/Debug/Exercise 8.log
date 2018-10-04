@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Exercise 8.cpp
+d:\git\work_in_progress\exercices sae\exercise 8\exercise 8\exercise 8.cpp(164): warning C4018: '>=' : incompatibilité signed/unsigned
+d:\git\work_in_progress\exercices sae\exercise 8\exercise 8\exercise 8.cpp(201): warning C4018: '<' : incompatibilité signed/unsigned
+d:\git\work_in_progress\exercices sae\exercise 8\exercise 8\exercise 8.cpp(203): warning C4018: '<' : incompatibilité signed/unsigned
+d:\git\work_in_progress\exercices sae\exercise 8\exercise 8\exercise 8.cpp(220): warning C4018: '<' : incompatibilité signed/unsigned
+d:\git\work_in_progress\exercices sae\exercise 8\exercise 8\exercise 8.cpp(221): warning C4018: '<' : incompatibilité signed/unsigned
+  Exercise 8.vcxproj -> D:\Git\Work_in_Progress\Exercices SAE\Exercise 8\Debug\Exercise 8.exe
